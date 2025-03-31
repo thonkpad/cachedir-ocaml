@@ -1,2 +1,6 @@
 _build/
 .vscode/
+
+result
+.direnv/
+.envrc
